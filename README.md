@@ -20,9 +20,9 @@ Convert raw unbalanced data to balanced dataset.
 - Modelling
 
 # ML models used
-K Nearest neighbor (KNN)
-Decision Tree algorithm
-Linear Regression Model
+1. K Nearest neighbor (KNN)
+2. Decision Tree algorithm
+3. Linear Regression Model
 
 
 # Results
