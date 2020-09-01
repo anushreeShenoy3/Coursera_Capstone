@@ -34,3 +34,9 @@ Following metrics can be used to evaluate a model.
 
 # Python version  
 3.6
+
+# Week 1 contents
+1. Jupyter notebook which consists of following
+- Introduction/Business Problem statement
+- Data Understanding
+2. A report of Capstone project
