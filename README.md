@@ -13,3 +13,12 @@ The goal of this project is to predict the severity of road accidents in rainy w
 - Introduction/Business Problem statement
 - Data Understanding
 2. A report of Capstone project
+
+
+# Final Project Contents
+1. Jupyter notebook which consists of following
+- Introduction/Business Problem statement
+- Data Understanding
+- Methodology
+- ML models
+- Results
